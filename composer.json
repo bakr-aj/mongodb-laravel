@@ -1,12 +1,19 @@
 {
-    "name": "baker-aj/mongodb",
+    "name": "bakraj/mongodb",
     "description": "adding passport support to https://github.com/jenssegers/laravel-mongodb using passport part in https://github.com/moloquent",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model","moloquent"],
-    "homepage": "https://github.com/jenssegers/laravel-mongodb",
+    "homepage": "https://github.com/bakr-aj/mongodb-laravel",
     "authors": [
         {
             "name": "Jens Segers",
             "homepage": "https://jenssegers.com"
+        },
+        {
+            "name": "Moloquent",
+            "homepage": "https://moloquent.github.io"
+        },
+        {
+            "name": "Bakr aj"
         }
     ],
     "license" : "MIT",
